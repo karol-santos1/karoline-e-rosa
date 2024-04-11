@@ -1,0 +1,11 @@
+
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', sans-serif;
+}
+:root {
+    --cor-base: #72ff47;
+  }
+  
